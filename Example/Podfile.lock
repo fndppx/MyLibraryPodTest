@@ -1,0 +1,16 @@
+PODS:
+  - MyLibraryPodTest (0.1.0)
+
+DEPENDENCIES:
+  - MyLibraryPodTest (from `../`)
+
+EXTERNAL SOURCES:
+  MyLibraryPodTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MyLibraryPodTest: bac18be302dc7d05decf993f4a8afbdc2a530ce4
+
+PODFILE CHECKSUM: fd4adcdf824661a7bf7826c4040a82698d5d702f
+
+COCOAPODS: 1.11.0
