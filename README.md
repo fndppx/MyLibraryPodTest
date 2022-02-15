@@ -22,7 +22,7 @@ pod 'MyLibraryPodTest'
 
 ## Author
 
-fndppx, weikeyan@zuoyebang.com
+fndppx
 
 ## License
 
